@@ -14,5 +14,5 @@ ${PROJECT_ROOT}/packages/react/
 
 ##### 重点内容导读索引
 
-- [src/ReactClient.ts](ReactClient.md)
-- [src/jsx/ReactJSXElement.ts](ReactJSXElement.md)
+- [src/ReactClient.js](ReactClient.md)
+- [src/jsx/ReactJSXElement.js](ReactJSXElement.md)
